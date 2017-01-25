@@ -1,0 +1,2905 @@
+fileFormatVersion: 2
+guid: a260fa7f49f9d524c8592b2c3dcf67e7
+timeCreated: 1456079935
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Miner_0
+    21300002: Miner_1
+    21300004: Miner_2
+    21300006: Miner_3
+    21300008: Minning-1
+    21300010: Minning-2
+    21300012: Minning-3
+    21300014: Minning-4
+    21300016: Minning-5
+    21300018: Minning-6
+    21300020: Minning-7
+    21300022: Minning-8
+    21300024: Minning-9
+    21300026: Minning-10
+    21300028: Miner_14
+    21300030: Miner_15
+    21300032: Miner_16
+    21300034: Miner_17
+    21300036: Miner_18
+    21300038: Miner_19
+    21300040: Miner_20
+    21300042: Miner_21
+    21300044: Miner_22
+    21300046: Miner_23
+    21300048: Break-1
+    21300050: Break-2
+    21300052: Break-3
+    21300054: Break-4
+    21300056: Break-5
+    21300058: Break-6
+    21300060: Break-7
+    21300062: Break-8
+    21300064: Break-9
+    21300066: Miner_33
+    21300068: Miner_34
+    21300070: Miner_35
+    21300072: Miner_36
+    21300074: Miner_37
+    21300076: Miner_38
+    21300078: Miner_39
+    21300080: Miner_40
+    21300082: Miner_41
+    21300084: Miner_42
+    21300086: Miner_43
+    21300088: Miner_44
+    21300090: Miner_45
+    21300092: Miner_46
+    21300094: Miner_47
+    21300096: Miner_48
+    21300098: Miner_49
+    21300100: Miner_50
+    21300102: Miner_51
+    21300104: Miner_52
+    21300106: Miner_53
+    21300108: Miner_54
+    21300110: Miner_55
+    21300112: Run-1
+    21300114: Run-2
+    21300116: Run-3
+    21300118: Run-4
+    21300120: Run-5
+    21300122: Run-6
+    21300124: Miner_62
+    21300126: Miner_63
+    21300128: Miner_64
+    21300130: Miner_65
+    21300132: Miner_66
+    21300134: Miner_67
+    21300136: Miner_68
+    21300138: Miner_69
+    21300140: Miner_70
+    21300142: Miner_71
+    21300144: Miner_72
+    21300146: Miner_73
+    21300148: Miner_74
+    21300150: Miner_75
+    21300152: Miner_76
+    21300154: Miner_77
+    21300156: Miner_78
+    21300158: Miner_79
+    21300160: Miner_80
+    21300162: Miner_81
+    21300164: Miner_82
+    21300166: Miner_83
+    21300168: Miner_84
+    21300170: Miner_85
+    21300172: Miner_86
+    21300174: Miner_87
+    21300176: Miner_88
+    21300178: Miner_89
+    21300180: Miner_90
+    21300182: Miner_91
+    21300184: Miner_92
+    21300186: Miner_93
+    21300188: Miner_94
+    21300190: Miner_95
+    21300192: Miner_96
+    21300194: Miner_97
+    21300196: Miner_98
+    21300198: Miner_99
+    21300200: Miner_100
+    21300202: Miner_101
+    21300204: Miner_102
+    21300206: Miner_103
+    21300208: Miner_104
+    21300210: Miner_105
+    21300212: Miner_106
+    21300214: Miner_107
+    21300216: Miner_108
+    21300218: Miner_109
+    21300220: Miner_110
+    21300222: Miner_111
+    21300224: Miner_112
+    21300226: Miner_113
+    21300228: Miner_114
+    21300230: Miner_115
+    21300232: Miner_116
+    21300234: Miner_117
+    21300236: Miner_118
+    21300238: Miner_119
+    21300240: Miner_120
+    21300242: Miner_121
+    21300244: Miner_122
+    21300246: Miner_123
+    21300248: Miner_124
+    21300250: Miner_125
+    21300252: Miner_126
+    21300254: Miner_127
+    21300256: Miner_128
+    21300258: Miner_129
+    21300260: Miner_130
+    21300262: Miner_131
+    21300264: Miner_132
+    21300266: Miner_133
+    21300268: Miner_134
+    21300270: Miner_135
+    21300272: Miner_136
+    21300274: Miner_137
+    21300276: Miner_138
+    21300278: Miner_139
+    21300280: Miner_140
+    21300282: Miner_141
+    21300284: Miner_142
+    21300286: Miner_143
+    21300288: Miner_144
+    21300290: Miner_145
+    21300292: Miner_146
+    21300294: Miner_147
+    21300296: Miner_148
+    21300298: Miner_149
+    21300300: Miner_150
+    21300302: Miner_151
+    21300304: Miner_152
+    21300306: Miner_153
+    21300308: Miner_154
+    21300310: Miner_155
+    21300312: Miner_156
+    21300314: Miner_157
+    21300316: Miner_158
+    21300318: Miner_159
+    21300320: Miner_160
+    21300322: Miner_161
+    21300324: Miner_162
+    21300326: Miner_163
+    21300328: Miner_164
+    21300330: Miner_165
+    21300332: Miner_166
+    21300334: Miner_167
+    21300336: Miner_168
+    21300338: Miner_169
+    21300340: Miner_170
+    21300342: Miner_171
+    21300344: Miner_172
+    21300346: Miner_173
+    21300348: Miner_174
+    21300350: Miner_175
+    21300352: Miner_176
+    21300354: Miner_177
+    21300356: Miner_178
+    21300358: Miner_179
+    21300360: Miner_180
+    21300362: Miner_181
+    21300364: Miner_182
+    21300366: Miner_183
+    21300368: Miner_184
+    21300370: Miner_185
+    21300372: Miner_186
+    21300374: Miner_187
+    21300376: Miner_188
+    21300378: Miner_189
+    21300380: Miner_190
+    21300382: Miner_191
+    21300384: Miner_192
+    21300386: Miner_193
+    21300388: Miner_194
+    21300390: Miner_195
+    21300392: Miner_196
+    21300394: Miner_197
+    21300396: Miner_198
+    21300398: Miner_199
+    21300400: Miner_200
+    21300402: Miner_201
+    21300404: Miner_202
+    21300406: Miner_203
+    21300408: Miner_204
+    21300410: Miner_205
+    21300412: Miner_206
+    21300414: Miner_207
+    21300416: Miner_208
+    21300418: Miner_209
+    21300420: Miner_210
+    21300422: Miner_211
+    21300424: Miner_212
+    21300426: Miner_213
+    21300428: Miner_214
+    21300430: Miner_215
+    21300432: Miner_216
+    21300434: Miner_217
+    21300436: Miner_218
+    21300438: Miner_219
+    21300440: Miner_220
+    21300442: Miner_221
+    21300444: Miner_222
+    21300446: Miner_223
+    21300448: Miner_224
+    21300450: Miner_225
+    21300452: Miner_226
+    21300454: Miner_227
+    21300456: Miner_228
+    21300458: Miner_229
+    21300460: Miner_230
+    21300462: Miner_231
+    21300464: Miner_232
+    21300466: Miner_233
+    21300468: Miner_234
+    21300470: Miner_235
+    21300472: Miner_236
+    21300474: Miner_237
+    21300476: Miner_238
+    21300478: Miner_239
+    21300480: Miner_240
+    21300482: Miner_241
+    21300484: Miner_242
+    21300486: Miner_243
+    21300488: Miner_244
+    21300490: Miner_245
+    21300492: Miner_246
+    21300494: Miner_247
+    21300496: Miner_248
+    21300498: Miner_249
+    21300500: Miner_250
+    21300502: Miner_251
+    21300504: Miner_252
+    21300506: Miner_253
+    21300508: Miner_254
+    21300510: Miner_255
+    21300512: Miner_256
+    21300514: Miner_257
+    21300516: Miner_258
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Miner_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 560
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 560
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 560
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 557
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minning-1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 488
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minning-2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 488
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minning-3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 488
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minning-4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 488
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minning-5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 488
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minning-6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 488
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minning-7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 488
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minning-8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 488
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minning-9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 488
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minning-10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 488
+        width: 43
+        height: 64
+      alignment: 9
+      pivot: {x: .51967746, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 456
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 456
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 456
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 1, y: .938549817}
+      border: {x: 6, y: 0, z: 0, w: 0}
+    - name: Miner_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 456
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 456
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 456
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 456
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 456
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 456
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 456
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Break-1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 408
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Break-2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 408
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Break-3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 408
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Break-4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 408
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Break-5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 408
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Break-6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 408
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Break-7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 408
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Break-8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 408
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Break-9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 409
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 404
+        width: 349
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_34
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 394
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 394
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 394
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 394
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_38
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 394
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_39
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 393
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 394
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_41
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 394
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_42
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 394
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_43
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 392
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 394
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_45
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 392
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 394
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_47
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 394
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_48
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 394
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_49
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 394
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 376
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 376
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_52
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 376
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 376
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_54
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 376
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_55
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 373
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run-1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 320
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run-2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 320
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run-3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 321
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run-4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 320
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run-5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 320
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run-6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 320
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 344
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_63
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 344
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_64
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 344
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_65
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 344
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_66
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 341
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_67
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 344
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_69
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 288
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_70
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 288
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 288
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 288
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 288
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_74
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 288
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_75
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 285
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 244
+        width: 181
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 240
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_78
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 240
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_79
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 240
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_80
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 240
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 208
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 208
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_83
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 208
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_84
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 208
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_85
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 208
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_86
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 208
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_87
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 157
+        width: 194
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_89
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 160
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_90
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 160
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_91
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 160
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_92
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 104
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_93
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 160
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_94
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 157
+        width: 235
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_95
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 160
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_96
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 160
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_97
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 160
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_98
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 160
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_99
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 160
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_100
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 160
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_101
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 147
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_102
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 147
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_103
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 147
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_104
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 145
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_105
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 147
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_106
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 147
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_107
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 147
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_108
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 145
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_109
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_110
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_111
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 128
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 106
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_113
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 105
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_114
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_115
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_116
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 78
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_117
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_118
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 80
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_119
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 80
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_120
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 80
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_121
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 80
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_122
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 80
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_123
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_125
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 80
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_126
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 80
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_127
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 80
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_128
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 80
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_129
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 80
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_130
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 80
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_131
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 77
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_132
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 80
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_133
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_134
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 60
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_135
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 60
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_136
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_137
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_138
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_140
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 63
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_141
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_142
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_143
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_144
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_145
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 63
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_146
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 63
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_147
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_148
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_149
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_150
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_151
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 63
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_152
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 63
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_153
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_154
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 63
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_155
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_156
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_157
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_158
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_159
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 47
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_160
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 47
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_161
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_162
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_163
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_164
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_165
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 47
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_166
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_167
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_168
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 30
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_169
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 30
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_170
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_171
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_172
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_173
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 27
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_174
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_175
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 27
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_176
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_177
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 30
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_178
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 30
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_179
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_180
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 30
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_181
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_182
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 27
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_183
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 27
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_184
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_185
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_186
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_187
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_188
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 30
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_189
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_190
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_191
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 30
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_192
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 28
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_193
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_194
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_195
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 30
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 27
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_197
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_198
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_199
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 30
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_200
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_201
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 30
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_202
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 30
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_203
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_204
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_205
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_206
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 30
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_207
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_208
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 30
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_209
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 30
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_210
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_211
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_212
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 30
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_213
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 30
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_214
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_215
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_216
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_217
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_218
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_219
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 30
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_220
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_221
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_222
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_223
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 10
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_224
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_225
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_226
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 13
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_227
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_228
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_229
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_230
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_231
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 13
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_232
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_233
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_234
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_235
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_236
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 13
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_237
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_238
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_239
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 10
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_240
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 13
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_241
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 10
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_242
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_243
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 10
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_244
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_245
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_246
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_247
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_248
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_249
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 13
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_250
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_251
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_252
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 13
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_253
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 13
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_254
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_255
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 13
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_256
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 10
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_257
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miner_258
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 13
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
